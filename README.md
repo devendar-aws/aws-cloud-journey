@@ -6,3 +6,11 @@
 
 - Created GitHub account
 - Created my first GitHub repo to track AWS progress
+- Tried to create an AWS account
+
+### Day 2 - June 22, 2025
+
+- Completed full AWS account signup and verification
+- Set default AWS region to Asia Pacific (Mumbai)
+- Explored AWS console layout and services
+- Prepared to launch first EC2 instance no Day 3.
