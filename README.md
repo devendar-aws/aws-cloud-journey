@@ -21,3 +21,5 @@
 - Installed Apache Web Server
 - Accessed live Apache Homepage via Public IP
 - First Cloud project is live
+- Created a folder, day3
+- Added the screenshot of the apache web page on the browser to the 'day3/' folder [View Screenshot in 'day3/'](day3/apache-page.png)
