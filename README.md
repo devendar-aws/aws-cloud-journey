@@ -14,3 +14,10 @@
 - Set default AWS region to Asia Pacific (Mumbai)
 - Explored AWS console layout and services
 - Prepared to launch first EC2 instance no Day 3.
+
+### Day 3 - June 23, 2025
+
+- Launched first EC2 instance (Ubuntu 22.04)
+- Installed Apache Web Server
+- Accessed live Apache Homepage via Public IP
+- First Cloud project is live
