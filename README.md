@@ -23,3 +23,9 @@
 - First Cloud project is live
 - Created a folder, day3
 - Added the screenshot of the apache web page on the browser to the 'day3/' folder [View Screenshot in 'day3/'](day3/apache-page.png)
+
+### Day 3.5 - June 23, 2025 (Self - test)
+
+- Launched and configured a new EC2 instance independently
+- Terminated the instance after testing to manage cost and lifecycle
+- Gained confidence in navigating AWS Console without step-by-step guidance.
