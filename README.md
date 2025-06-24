@@ -41,3 +41,35 @@
 - Publicly Accessible project is Live [S3 website endpoint](http://devendar-s3-site.s3-website.ap-south-1.amazonaws.com).
 - Created a folder, day4
 - Added the screenshot of the Live HTML web page on the browser to the 'day4/' folder [View Screenshot in 'day4/'](day4/live-html-page.png)
+
+
+### Day 4.5 - June 24, 2025 (Connect using SSH)
+
+#### 🔐 SSH – Secure Shell (Brushed-up Concept)
+
+While practicing EC2 + Linux basics, I revisited the foundational concept of **SSH** — not as something new, but as part of reinforcing what I already understand well from past hands-on experience.
+
+> **SSH (Secure Shell)** is a secure protocol that allows encrypted remote login from one computer to another over the internet.  
+> It uses **asymmetric key cryptography** to authenticate access.
+
+##### ✅ What I Brushed Up:
+
+- During EC2 creation, I generated a **key pair**:
+  - **Public Key**: Stored in EC2 instance
+  - **Private Key (.pem)**: Stored on my local machine
+
+- I changed permissions of the key to secure it:
+  chmod 400 private-key.pem
+
+- Then I connected to the instance via SSH:
+  ssh -i "private-key.pem" ubuntu@<EC2-Public-IP>
+
+- The connection medium is the internet, and only someone with the correct private key can decrypt the handshake and access the instance.
+
+    In the real world, this ensures secure access control for cloud servers — even if the public IP is exposed.
+
+
+- Linux Basics on EC2
+- Created files, folders, gave permissions to files and modified files on local machine.
+- Took screen shot of EC2 instance terminal showing Linux shell and a message from the file created on the local machine.
+- Added screenshot of terminal to 'day4/' folder [Screenshot of EC2 terminal](day4/linux-on-ec2.png)
