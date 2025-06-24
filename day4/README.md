@@ -1,5 +1,5 @@
 ## Day 4 - June 24, 2025
-# Creating S3 bucket, uploading a HTML file and making it live on browser.
+### Creating S3 bucket, uploading a HTML file and making it live on browser.
 
 - Created a HTML file on Local Machine.
 - Created an S3 bucket by blocking public access and unchecking the warning checkbox, with bucket versioning diabled for now and Bucket key enabled.
