@@ -73,3 +73,16 @@ While practicing EC2 + Linux basics, I revisited the foundational concept of **S
 - Created files, folders, gave permissions to files and modified files on local machine.
 - Took screen shot of EC2 instance terminal showing Linux shell and a message from the file created on the local machine.
 - Added screenshot of terminal to 'day4/' folder [Screenshot of EC2 terminal](day4/linux-on-ec2.png)
+
+
+
+### Day 5 - June 25, 2025 (IAM, CLI) [Day 5 notes](day5/notes.md)
+
+- Installed and configured AWS CLI.
+- Created IAM user with programmatic access (CLI).
+- Understood aws configure and credentials usage.
+- Created a file locally and uploaded it to S3.
+- Downloaded the file from S3.
+- Deleted the file from S3.
+- Create and Delete Buckets and Objects
+- Sync local directory to S3 and vice versa.
