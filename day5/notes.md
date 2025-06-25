@@ -1,4 +1,4 @@
-###IAM - Identity and Access Management
+### IAM - Identity and Access Management
 
 https://console.aws.amazon.com/iam/
 
@@ -19,7 +19,7 @@ Set description tag > CLI access key for test user > Create access key
 Retrieve access keys > Download csv. consisting Access key and secret access key > Done 
 
 
-###Using CLI
+### Using CLI
 Install AWS CLI on local machine from https://awscli.amazonaws.com/AWSCLIV2.msi
 Open Gitbash 
 aws --version
