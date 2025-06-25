@@ -1,6 +1,6 @@
 # Day 1 – Linux Basics on EC2
 
-## Commands Practiced:
+Commands Practiced:
 pwd, ls, cd, mkdir, touch, echo, nano, rm, rmdir, cp, mv, cat, chmod, sudo, apt update, apt install, clear
 
     cp src dest
