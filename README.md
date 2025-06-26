@@ -86,3 +86,18 @@ While practicing EC2 + Linux basics, I revisited the foundational concept of **S
 - Deleted the file from S3.
 - Create and Delete Buckets and Objects
 - Sync local directory to S3 and vice versa.
+
+
+### Day 6 - June 26, 2025 (AWS S3 CLI & Static Hosting) [Day 6 notes](day6/notes.md)
+
+#### Tasks Covered
+
+- Enabled S3 static website hosting via CLI: 
+- Allow Public Access via CLI
+- Set bucket policy via CLI
+- Deployed index.html publicly
+
+[Endpoint](http://dev-newbucket-cli.s3-website.ap-south-1.amazonaws.com/)
+
+
+
