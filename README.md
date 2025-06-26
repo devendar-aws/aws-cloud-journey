@@ -1,6 +1,6 @@
 # 100 Days of AWS - Devendar Nandaiahgari
 
-## Goal: Land a 15 lpa Cloud Role by September 29, 2025
+## Goal: Land a 15-18 lpa Cloud Role by September 29, 2025
 
 ### Day 1 - June 21, 2025
 
@@ -13,7 +13,7 @@
 - Completed full AWS account signup and verification
 - Set default AWS region to Asia Pacific (Mumbai)
 - Explored AWS console layout and services
-- Prepared to launch first EC2 instance no Day 3.
+- Prepared to launch first EC2 instance on Day 3.
 
 ### Day 3 - June 23, 2025
 
