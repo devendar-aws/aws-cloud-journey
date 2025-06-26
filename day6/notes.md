@@ -34,4 +34,4 @@ aws s3api put-bucket-policy --bucket dev-newbucket-cli --policy file://bucket-po
 - JSON policies
 
 ## Endpoint:
-http://dev-newbucket-cli.s3-website-ap-south-1.amazonaws.com/
+http://dev-newbucket-cli.s3-website.ap-south-1.amazonaws.com/
