@@ -113,5 +113,6 @@ While practicing EC2 + Linux basics, I revisited the foundational concept of **S
 5. **Set public-read bucket policy**
 6. **Hosted successfully via CLI!**
 
+[Endpoint](http://dev-newbucket-cli-test.s3-website.ap-south-1.amazonaws.com/)
 
 
