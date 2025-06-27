@@ -99,5 +99,19 @@ While practicing EC2 + Linux basics, I revisited the foundational concept of **S
 
 [Endpoint](http://dev-newbucket-cli.s3-website.ap-south-1.amazonaws.com/)
 
+### Day 7 - June 27, 2025 (Static Website Hosting on S3 via AWS CLI) [Day 7 notes](day7/README.md)
+
+- Host a static website using AWS S3 **entirely via CLI**, including:
+  - Bucket configuration
+  - Static hosting setup
+  - Public access policy
+
+1. **Created a new S3 bucket**
+2. **Disabled Block Public Access**
+3. **Uploaded HTML files**
+4. **Enabled static website hosting**
+5. **Set public-read bucket policy**
+6. **Hosted successfully via CLI!**
+
 
 
